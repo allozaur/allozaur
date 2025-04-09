@@ -1,5 +1,5 @@
 - Hi I'm Alek 👋
-- I started out as a UI/UX designer in 2010s, but quickly fell in love with Software Development
+- I started out as a UI/UX designer in 2010s, but quickly fell in love with Software Development and have worked as Frontend or Fullstack Engineer for almost 10 years
 - I ran a software agency, worked as a contractor for agencies & startups
 - Co-founded [Resider](https://www.resider.pl/en), a Real Estate platform with AI assistant that has access to market data
 - I've also launched a few fun microsaas projects — check out [Memvo.io](https://memvo.io), [Roast.dev](https://roast.dev) and [WebSelect.ai](https://webselect.ai)
