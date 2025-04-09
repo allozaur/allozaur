@@ -5,3 +5,4 @@
 - I've also launched a few fun microsaas projects — check out [Memvo.io](https://memvo.io), [Roast.dev](https://roast.dev) and [WebSelect.ai](https://webselect.ai)
 - I ❤️ Open Source and have contributed to [SvelteKit](https://github.com/sveltejs/kit/pulls?q=author%3Aallozaur) and [Storybook](https://github.com/storybookjs/storybook/pulls?q=author%3Aallozaur)
 - I'm very passionate about the AI revolution and want to take part in it as a creator
+- Outside of work i am a huge music fan — I play instruments (🎹🎸🥁), record music (🔴) and spin the records (💿) — check out my [Soundcloud](https://soundcloud.com/axelkrieger)
