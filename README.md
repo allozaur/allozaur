@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Alek!
 
-I'm currently working at 🤗 Hugging Face as a Design Engineer.
+I'm currently working at [🤗 Hugging Face](https://huggingface.co) as a Design Engineer.
 
 <div align="center">
   
@@ -20,7 +20,7 @@ I'm currently working at 🤗 Hugging Face as a Design Engineer.
     - [TradingStrategy.ai](https://tradingstrategy.ai)
     - [Concepts App](https://concepts.app)
   - Co-founded [Resider](https://www.resider.pl/en) - a Real Estate platform with an innovative AI assistant that provides market data insights to users
-- **Currently:** Working on the **[llama.cpp](https://github.com/ggml-org/llama.cpp)** project as my main project at 🤗 Hugging Face, focusing on improving the user experience and design of this powerful large language model inference engine
+- **Currently:** Working on the **[llama.cpp](https://github.com/ggml-org/llama.cpp)** project as my main project at [🤗 Hugging Face](https://huggingface.co), focusing on improving the user experience and design of this powerful large language model inference engine
 
 ## 🌟 Open Source & Projects
 
