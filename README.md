@@ -1,5 +1,7 @@
 # 👋 Hey there, I'm Alek!
 
+I'm currently working at 🤗 Hugging Face as a Design Engineer.
+
 <div align="center">
   
   ![Designer to Dev](https://img.shields.io/badge/Journey-Designer%20→%20Developer-ff69b4)
@@ -18,6 +20,7 @@
     - [TradingStrategy.ai](https://tradingstrategy.ai)
     - [Concepts App](https://concepts.app)
   - Co-founded [Resider](https://www.resider.pl/en) - a Real Estate platform with an innovative AI assistant that provides market data insights to users
+- **Currently:** Working on the **[llama.cpp](https://github.com/ggml-org/llama.cpp)** project as my main project at 🤗 Hugging Face, focusing on improving the user experience and design of this powerful large language model inference engine
 
 ## 🌟 Open Source & Projects
 
@@ -27,9 +30,9 @@ I believe in giving back to the community that helped me grow:
 |---------------------------|---------------|
 | [SvelteKit](https://github.com/sveltejs/kit/pulls?q=author%3Aallozaur) - Improved Enhanced Forms feature | [Memvo.io](https://memvo.io) - Memory and productivity tool |
 | [Storybook](https://github.com/storybookjs/storybook/pulls?q=author%3Aallozaur) - Helped migrate to Svelte 5 | [Roast.dev](https://roast.dev) - Get spicy feedback on your Pull Requests! |
-| Currently: [Kosuke](https://github.com/filopedraz/kosuke-core) - Helping build an open-source vibe coding platform | [WebSelect.ai](https://webselect.ai) - AI-powered web selection tool |
+| Currently: [llama.cpp](https://github.com/ggml-org/llama.cpp) - Helping build an open-source AI for everyone | [WebSelect.ai](https://webselect.ai) - AI-powered web selection tool |
 
 ## 🎮 After Hours
 
-- I'm passionate about music! You'll find me playing instruments 🎹🎸🥁, recording original tracks 🔴, and spinning records as a DJ 💿 - check out my mixes on [Soundcloud](https://soundcloud.com/axelkrieger)!
-- When I need to stay active, I'm either improving my Tennis backhand 🎾 or cruising around on my skateboard 🛹, a hobby I've enjoyed since my teenage years
+- You'll find me playing instruments 🎹🎸🥁, recording original tracks 🔴, and spinning records as a DJ 💿 - check out my mixes on [Soundcloud](https://soundcloud.com/axelkrieger)!
+- When I need to stay active, I'm either improving my Tennis backhand 🎾 or cruising around on my skateboard 🛹, hobbies I've enjoyed since my teenage years
